@@ -24,8 +24,7 @@ The codes are organized as follows:&#x20;
 
 ### PPI files
 
-*   The organized PPI files are on Google Drive.
-*   The PPI files are sourced from EMOGI, you can also directly access EMOGI to obtain the PPI files.
+*   The organized PPI files are on [EMOGI](https://github.com/schulter/EMOGI).
 
 
 ### How to run
@@ -42,6 +41,6 @@ The codes are organized as follows:&#x20;
 We referred to the code repository of the following repository:&#x20;
 
 *   [pyg-team/pytorch\_geometric](https://github.com/pyg-team/pytorch_geometric)
-*   [EMOGI]()
-*   
+*   [Node Classification Beyond Homophily: Towards a General Solution, SIGKDD'23](https://github.com/pricexu/ALT)
+*   [Tian Ruichao](https://github.com/sheeprra/add.py/tree/master/PyTorch/H2GCN)
 
