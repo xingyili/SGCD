@@ -1,5 +1,5 @@
 # SGCD
-## **Towards Simplified Graph Neural Networks for Identifying Cancer Driver Genes in Heterophilic Networks**
+## ****
 ## Description
 
 ![Mainframe](Mainframe.png)
