@@ -1,5 +1,5 @@
 # SGCD
-## ****
+## 
 ## Description
 
 ![Mainframe](Mainframe.png)
